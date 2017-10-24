@@ -1,0 +1,137 @@
+body {
+    font-family: sans-serif;
+}
+
+body.container  {
+    background-color:lightblue;   
+}
+
+.photo {
+    border-radius: 5em;
+    margin-bottom: 2.5%;   
+}
+
+#header {
+    margin-top: 4%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+main#row {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#expereince h3 {
+    margin-bottom: 2%;
+    text-transform: uppercase;
+}
+
+ul, ol, li {
+    list-style-type: none;
+    line-height : 1em;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 2.5em;
+}
+h2, h3, h4, h5, h6, p {
+    font-family: sans-serif;
+    color: rgba(44, 62, 80,1.0);
+}
+
+a
+{
+ color: rgba(44, 62, 80,1.0);
+text-decoration: none;
+}
+
+a:hover{
+    color:lightblue;
+    text-decoration: none;
+    
+}
+
+#space {
+    width: 4%;
+}
+
+q {
+    font-family: sans-serif;
+    color: rgba(44, 62, 80,1.0);
+    text-align: center;
+}
+
+#header {
+    background-color:white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 3%;
+}
+#header i.fa {
+    font-size: 100%;
+    color: rgba(44, 62, 80,1.0);
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+header h1, h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgba(44, 62, 80,1.0);
+    line-height : 1em;
+    text-align: center;
+}
+header h3 {
+    color: rgba(44, 62, 80,1.0);
+    line-height : 1em;
+}
+header#entete {
+    line-height : 0.5em;
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+.filet {
+    border-top-style: dotted;
+    border-width: 0.3em;
+    border-color: white;
+    margin-bottom: 2%;}
+
+aside {
+    width: 100%;
+}
+aside#left {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 5%;
+    border-radius: 1.0em;
+    background-color: rgba(45, 39, 55,0.9);
+}
+aside#left ul, ol, li {
+    list-style-type: none;
+    padding-left: 0%;
+}
+aside#left ul h4 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color:white;
+    
+    
+}
+aside#left ul li {
+    color:white;
+    line-height : 1.5em;
+}
+aside#right {
+    text-align: center;
+    background-color:rgba(255, 255, 255,0.9);
+    border-radius: 1em;
+    margin-top: 4%;
+    width: 100%;
+}
+i.fa {
+    font-size: 300%;
+    color: rgba(45, 39, 55,0.9);
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
